@@ -8,7 +8,7 @@ This repository contains code for two projects:
 https://www.youtube.com/watch?v=ysPJ32R-4bY
 
 
-2. Self-balancing Robot
+2. Self-balancing
 
 https://www.youtube.com/watch?v=CnfftP7SnFE
 
