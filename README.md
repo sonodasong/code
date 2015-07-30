@@ -2,11 +2,11 @@
 
 This repository contains code for two projects:
 
-1. Indoor Positioning System abc
+1. Indoor Positioning System
 
 https://www.youtube.com/watch?v=ysPJ32R-4bY
 
-2. Self-balancing
+2. Self-balancing robot
 
 https://www.youtube.com/watch?v=CnfftP7SnFE
 
