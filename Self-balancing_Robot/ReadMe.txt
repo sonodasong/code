@@ -22,7 +22,7 @@ Special considerations are taken to ensure smooth transition between P controlle
 The setpoint is angle and the output is speed.
 
 The outer loop is a PI controller.
-The integration part of this controller is affected by the middle loop.
+The integration (I) part of this controller is affected by the middle loop.
 The setpoint is speed and the output is angle.
 
 A little tricky of the setpoint and the output of the three loops.
@@ -47,6 +47,6 @@ It sends command over Com Port through Microsoft Communication Control.
 
 3. Reference
 
-The code for MPU9150 references jrowberg's code:
+The code for MPU6050 references jrowberg's code:
 
 https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050
